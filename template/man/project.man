@@ -1,0 +1,19 @@
+PROJECT(1)
+==========
+AUTHOR <EMAIL>
+
+== NAME
+
+PROJECT - DESCRIPTION
+
+== SYNOPSIS
+
+PROJECT [-h|--help] [-v|--version]
+
+== OPTIONS
+
+-h|--help::
+Display the usage and exit.
+
+-v|--version::
+Display the version and exit.
